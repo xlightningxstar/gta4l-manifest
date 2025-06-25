@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Device trees -->
-  <project name="SeifHossam20/android_device_samsung_gta4l-common" path="device/samsung/gta4l-common" remote="github" revision="lineage-22.2" />
-  <project name="SeifHossam20/android_device_samsung_gta4lwifi" path="device/samsung/gta4lwifi" remote="github" revision="lineage-22.2" />
-  <project name="SeifHossam20/android_device_samsung_gta4l" path="device/samsung/gta4l" remote="github" revision="lineage-22.2" />
+  <project name="xlightningxstar/android_device_samsung_gta4l-common" path="device/samsung/gta4l-common" remote="github" revision="lineage-22.2" />
+  <project name="xlightningxstar/android_device_samsung_gta4lwifi" path="device/samsung/gta4lwifi" remote="github" revision="lineage-22.2" />
+  <project name="xlightningxstar/android_device_samsung_gta4l" path="device/samsung/gta4l" remote="github" revision="lineage-22.2" />
   <!-- Vendor trees -->
-  <project name="SeifHossam20/proprietary_vendor_samsung_gta4l-common" path="vendor/samsung/gta4l-common" remote="github" revision="lineage-22.2" />
-  <project name="SeifHossam20/proprietary_vendor_samsung_gta4lwifi" path="vendor/samsung/gta4lwifi" remote="github" revision="lineage-22.2" />
-  <project name="SeifHossam20/proprietary_vendor_samsung_gta4l" path="vendor/samsung/gta4l" remote="github" revision="lineage-22.2" />
+  <project name="xlightningxstar/proprietary_vendor_samsung_gta4l-common" path="vendor/samsung/gta4l-common" remote="github" revision="lineage-22.2" />
+  <project name="xlightningxstar/proprietary_vendor_samsung_gta4lwifi" path="vendor/samsung/gta4lwifi" remote="github" revision="lineage-22.2" />
+  <project name="xlightningxstar/proprietary_vendor_samsung_gta4l" path="vendor/samsung/gta4l" remote="github" revision="lineage-22.2" />
   <!-- Kernel sources -->
-  <project name="SeifHossam20/android_kernel_samsung_sm6115" path="kernel/samsung/sm6115" remote="github" revision="lineage-22.2" />
+  <project name="xlightningxstar/android_kernel_samsung_sm6115" path="kernel/samsung/sm6115" remote="github" revision="lineage-22.2" />
 
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-22.2" />
 </manifest>
