@@ -3,7 +3,7 @@
   <remote name="github"
           fetch="https://github.com/" />
 
-  <default revision="15.0"
+  <default revision="lineage-22.2"
            remote="github"
            sync-j="4" />
 
@@ -12,8 +12,8 @@
   <project name="xlightningxstar/android_device_samsung_gta4l" path="device/samsung/gta4l" />
 
   <!-- Vendor trees -->
-  <project name="xlightningxstar/android_vendor_samsung_gta4l-common" path="vendor/samsung/gta4l-common" />
-  <project name="xlightningxstar/android_vendor_samsung_gta4l" path="vendor/samsung/gta4l" />
+  <project name="xlightningxstar/proprietary_vendor_samsung_gta4l-common" path="vendor/samsung/gta4l-common" />
+  <project name="xlightningxstar/proprietary_vendor_samsung_gta4l" path="vendor/samsung/gta4l" />
 
   <!-- Kernel sources -->
   <project name="xlightningxstar/android_kernel_samsung_sm6115" path="kernel/samsung/sm6115" revision="lineage-22.2" />
