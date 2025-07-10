@@ -9,7 +9,7 @@
     <project name="xlightningxstar/android_device_samsung_gta4l" 
              path="device/samsung/gta4l" 
              remote="github" 
-             revision="Voltage-15.0" />
+             revision="lineage-22.2" />
 
     <!-- Vendor trees -->
     <project name="xlightningxstar/proprietary_vendor_samsung_gta4l-common" 
@@ -24,12 +24,12 @@
 
     <!-- Kernel sources -->
     <project name="xlightningxstar/android_kernel_samsung_sm6115" 
-             path="kernel/samsung/sm6115" 
+             path="kernel/samsung/gta4l" 
              remote="github" 
              revision="lineage-22.2" />
 
     <!-- Hardware Samsung repo -->
-    <project name="LineageOS/android_hardware_samsung" 
+    <project name="xlightningxstar/android_hardware_samsung" 
              path="hardware/samsung" 
              remote="github" 
              revision="lineage-22.2" />
